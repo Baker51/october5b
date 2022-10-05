@@ -1,0 +1,172 @@
+
+html{
+
+    height: 100%;
+}
+
+
+
+body {
+
+    background-color: #2F3035;
+    background-image: url(images/Colorado1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.wings{
+
+    padding-top: 50px ;
+}
+
+
+.container {
+
+    margin-left: auto;
+    margin-right: auto;
+    height: 700px;
+    width: 1024px;
+}
+
+
+header {
+
+    height: 118px;
+    text-align: center;
+}
+
+nav {
+
+    background-color: rgba(0, 0, 0, 0.33);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+
+}
+
+main {
+
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+    padding-bottom: 80px;
+
+}
+
+footer {
+
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.728);
+    padding-top: 1550px;
+    padding-bottom: 50px;
+
+}
+
+.button{
+
+    padding-top:30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color:red;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.button:hover{
+
+    color:yellow;
+}
+
+
+.introcopy{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.introcopy2{
+    padding-top: 100px;
+    padding-bottom: 10px;
+    color: yellow;
+}
+
+h1{
+
+    font-size: 84px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+p{
+
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+nav a {
+
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+nav a:hover {
+
+color: red;
+
+}
+
+span{
+    color:yellow;
+}
+
+footer p {
+
+
+   font-size: 17px;
+   text-align: center;
+   color: aliceblue;
+    
+}
+
+.maps {
+
+    padding-bottom: 100px;
+}
+
+
+.navbar{
+
+    padding-top: 100px;
+}
+
+.HyapatiaOutside{
+
+    height:100%;
+    width: 100%;
+    padding: auto;
+}
+
+.paypalblurb{
+
+    margin-top: 52px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    padding-left: 22px;
+    padding-right: 22px; 
+    font-size: 22px;
+    background-color: yellow;
+    color:black;
+}
